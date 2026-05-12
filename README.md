@@ -17,7 +17,7 @@ Each project demonstrates practical application of data analysis techniques, mac
 ## 📁 Projects Overview
 
 ### 1. Pharmaceutical Sales Forecasting (Lab 4)
-**File:** `Lab 4 - Jupyter Notebook.ipynb`
+**File:** `Lab 4.ipynb`
 
 **Task:** Predict sales volume of drug categories based on seasonality.
 
